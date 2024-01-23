@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputGivenName</name>
+   <tag></tag>
+   <elementGuidId>e7ba5cb9-6c1c-467a-88bd-2fe1d3230c79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'givenName']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fr510-field</value>
+      <webElementGuid>bdb8c9a8-bdfd-43a6-8867-bd04a0b8ddf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>givenName</value>
+      <webElementGuid>3eb8944c-4c3f-44cf-bfef-d1fe1bed76d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required ui-autocomplete-input focused</value>
+      <webElementGuid>a7aae21f-9356-44f1-8629-6a8c3482d400</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

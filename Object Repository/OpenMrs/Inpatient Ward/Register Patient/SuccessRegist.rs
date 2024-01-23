@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SuccessRegist</name>
+   <tag></tag>
+   <elementGuidId>16e5d757-d99d-4bde-95e1-e78942edc805</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;info-message&quot;]/div/div[1]/p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;content&quot;]/div[6]/div[1]/div/div[1]/h1/span[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>end-visit-dialog</value>
+      <webElementGuid>202037a5-60b1-4d78-9422-ddf54b1ce473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PersonName-givenName</value>
+      <webElementGuid>ba529f01-449d-4012-bbb9-9ca638a41791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#content > div.patient-header.row > div.demographics.col-12.col-sm-7.col-md-8 > div > div.col-12.col-sm-auto > h1 > span:nth-child(1) > span</value>
+      <webElementGuid>2db58553-7488-4b54-b8e0-7ccee5e76134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/div[6]/div[1]/div/div[1]/h1/span[3]/span</value>
+      <webElementGuid>38f78558-03c1-43db-a342-3ef9de1b823b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
